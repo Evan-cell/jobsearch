@@ -5,10 +5,11 @@ Use [`expo-router`](https://expo.github.io/router) to build native navigation us
 ## 🚀 How to use
 
 ```sh
-npx create-react-native-app -t with-router
+Download the expo app and run the link
 ```
 
 ## 📝 Notes
+This app Displays a list of software developer jobs that are available feel free to checkout the jobs
 
 - [Expo Router: Docs](https://expo.github.io/router)
 - [Expo Router: Repo](https://github.com/expo/router)
